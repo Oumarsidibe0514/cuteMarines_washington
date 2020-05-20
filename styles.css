@@ -66,7 +66,7 @@
     clear: both;
   }
   
-  .footer {
+.footer {
     position:fixed;
      bottom:0;
      padding-bottom: 50px;
@@ -74,8 +74,13 @@
      width:100%;
      background-color:   rgb(0, 10, 155);
      text-align: center;
-     color: grey;
+     color: white;
   }
+
+  .footer a {
+    color:white;
+  }
+  
   
   /* Responsive layout*/
   @media screen and (max-width:600px) {
