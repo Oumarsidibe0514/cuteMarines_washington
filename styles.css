@@ -8,9 +8,9 @@
     background-color:  lightblue;
   }
 
-   p {
-        font-family: helvetica, arial, verdana;
-     }
+   p,li,h2,h3 {
+      font-family: helvetica, arial, verdana;
+   }
 
   
   /* Style the header */
