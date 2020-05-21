@@ -8,22 +8,25 @@
     background-color:  lightblue;
   }
 
-   p,li,h2,h3 {
+ img {
+  border-radius: 10px;
+}
+
+ p,li,h2,h3 {
       font-family: helvetica, arial, verdana;
    }
 
-  
-  /* Style the header */
-  .header {
-    background-image: url("https://images.unsplash.com/photo-1502022600031-dccd1c590715?ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    padding: 0.01%;
-    margin:20;
-    text-align: center;
-    font-size: 22px;
-    color: lightblue;
-  }
+/* Style the header */
+.header {
+  background-image: url("https://images.unsplash.com/photo-1502022600031-dccd1c590715?ixlib=rb-1.2.1&auto=format&fit=crop&w=1053&q=80");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 0.01%;
+  margin:20;
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
   
   /* Style the top navigation bar */
   .topnav {
